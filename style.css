@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: linear-gradient(90deg, #fcff9e 0%, #c67700 100%);
+}
+
+.card {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    width: fit-content;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 12px;
+    margin: 5px;
+
+}
+
+.name {
+    font-size: xx-large;
+    color: rgb(224, 13, 13);
+    font-weight: bolder;
+    margin: 8px;
+    background: transparent;
+}
+
+.lead {
+    color: rgb(141, 194, 240);
+    font-size: larger;
+    margin: 9px;
+    background: transparent;
+}
+
+.box {
+    color: rgb(237, 245, 9);
+
+    background: transparent;
+    margin: 8px;
+    font-weight: bolder;
+    font-size: large;
+}
+
+input,
+button {
+    display: block;
+    padding: 6px;
+    margin: 10px;
+    border-radius: 8px;
+    color: rgb(230, 27, 27);
+    font-family: Tahoma;
+}
+
+.form {
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+
+.change {
+
+    background: transparent;
+}
+
+.change button {
+
+    margin: 1px;
+    display: inline;
+}
+
+.update {
+    display: none;
+
+}
+
+.update button {
+    display: inline;
+    margin: 5px;
+}
