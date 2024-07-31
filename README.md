@@ -1,1 +1,1 @@
-#Javascript Card
+#JavascriptCard
