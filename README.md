@@ -12,6 +12,10 @@ This application provides a user interface for entering movie details, such as t
 - **Update Movie**: Modify the details of an existing movie.
 - **Cancel Edit**: Discard changes if you decide not to update a movie.
 
+## 🔗 **Live Demo**
+
+Check out the live demo of the Movie Management Application [here](https://ravigitacc87.github.io/Create-Javascript-card/).
+
 ## 📸 **Preview**
 
 ![Movie Management Screenshot](./Screenshot.png)
